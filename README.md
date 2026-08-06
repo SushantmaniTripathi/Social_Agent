@@ -59,7 +59,7 @@ Instagram Auto Publishing
 
 # 📸 Screenshots
 
-## Assigned Trending Hashtags Based on Topic (Editable)
+## Assigned Trending Hashtags Based on Topic (its Editable)
 
 <img width="1549" height="885" alt="image" src="https://github.com/user-attachments/assets/ceb24fd5-3fe4-42fc-a4bf-f7364c223ae5" />
 
