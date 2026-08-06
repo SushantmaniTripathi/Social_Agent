@@ -65,7 +65,7 @@ Instagram Auto Publishing
 
 ---
 
-## AI Generated Creative with Custom Branding + Auto Published on Instagram
+## AI Generated Creative with Custom Branding + Auto Publishing on Instagram
 
 <img width="1580" height="893" alt="image" src="https://github.com/user-attachments/assets/a09667a3-2fdc-49b6-af3c-1309cef2e5ba" />
 
